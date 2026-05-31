@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+logs
+*.log
+.env
+.env.*
+.omo
+.DS_Store
